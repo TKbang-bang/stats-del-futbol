@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "img": "../../public/imgs/messi.jpg",
+        "img2":"../../public/imgs/messi2.jpg",
+        "name": "Lionel Andrés Messi",
+        "age": 36,
+        "country": "Argentina",
+        "team": "Inter de Miami",
+        "bio": "Lionel Andrés Messi, más conocido como Leo Messi, es un futbolista argentino que también posee la nacionalidad española desde el año 2005. Juega como delantero en el FC Barcelona de la Primera División de España y en la Selección de fútbol de Argentina, de la cual es también capitán.",
+        "titles": 43,
+        "state": true,
+        "trof": {
+            "clubs": [
+                "Champions League x 4",
+                "LaLiga x 10",
+                "Copa del Rey x 7",
+                "Mudial de clubes x 3",
+                "Supercopa de Eropa x 3",
+                "Supercopa de España x 8",
+                "Ligue1 x 2",
+                "Supercopa de Francia x 1"
+            ],
+            "selection": [
+                "Copa America x 1",
+                "Mundial sub-20 x 1",
+                "Medalla Oro juegos Olimpicos Beijing x 1",
+                "Mundial x 1",
+                "Finalissima x 1"
+            ]
+        }
+    },{
+        "id": 2,
+        "img": "../../public/imgs/cristiano.jpeg",
+        "img2": "../../public//imgs/ronaldo2.jpg",
+        "name": "Cristiano Ronaldo",
+        "age": 38,
+        "country": "Portugal",
+        "team": "AL-Nassr",
+        "bio": "Cristiano Ronaldo es un jugador de fútbol portugués que se desempeñó como delantero y goleador de varios clubes europeos y de la selección de Portugal. Jugó en los clubes más importantes de su patria y de Europa y es la máxima estrella y goleador de su selección.",
+        "titles": 35,
+        "state": true,
+        "trof": {
+            "clubs": [
+                "LaLiga x 2",
+                "Champions League x 5",
+                "Serie A x 2",
+                "Copa del Rey x 2",
+                "Premiere League x 3",
+                "Nations League x 1",
+                "FA Cup x 1",
+                "Supercopa de Eropa x 3",
+                "community Sheild x 2",
+                "Supercopa de España x 3",
+                "Supercopa de Italia x 2",
+                "Supercopa de Portugal x 2",
+                "Mundiales de clubes x 4",
+                "Copa de la liga de Inglaterra x 2",
+                "Copa italia x 1"
+            ],
+            "selection": [
+                "Eurocopa x 1",
+                "UEFA Nations league x 1"
+            ]
+        }
+    },{
+        "id": 3,
+        "img": "../../public/imgs/neymar.jpg",
+        "img2": "../../public//imgs/neymar2.jpg",
+        "name": "Neymar Jr",
+        "age": 31,
+        "country": "Brazil",
+        "team": "AL-Hillal",
+        "bio": "Neymar es un futbolista brasileño. Juega como delantero y está considerado como uno de los mejores jugadores de su país y del mundo, de la última década. Destacó como goleador y como armador de juego. Debutó y jugó entre 2014 y 2017 en el Santos de su tierra natal. Tuvo un breve paso por el Barcelona y en 2017 lo compró el Paris Saint-Germain, ostentando el récord del pase más caro de la historia: 222 millones de euros. Es uno de los referentes de la selección de su país. Es el jugador más buscado y mejor pago en publicidades. Fue la cara de Nike y luego se mudó a Puma. Es uno de los futbolistas más seguidos en sus redes sociales, en Twitter cuenta con 12 millones de seguidores. Ha sido comparado con Pelé y muchos lo consideran su sucesor.",
+        "titles": 30,
+        "state": true,
+        "trof": {
+            "clubs": [
+                "Champions League x 1",
+                "Mudial de clubes x 1",
+                "Ligue1 x 5",
+                "LaLiga x 2",
+                "Supercopa de Eropa x 1",
+                "Copa de Francia x 3",
+                "Copa del Rey x 3",
+                "Supercopa de España x 1",
+                "copa de Francia x 2",
+                "Copa Libertadores x 1",
+                "Recopa Sudamericana x 1",
+                "Supercopa de Francia x 4"
+            ],
+            "selection": [
+                "Copa confederaciones x 1",
+                "Campeon Sudamericano sub-20"
+            ]
+        }
+    },{
+        "id": 4,
+        "img": "../../public/imgs/ronaldinho.jpeg",
+        "img2": "../../public//imgs/ronaldinho2.jpg",
+        "name": "Ronaldinho Gaucho",
+        "age": 43,
+        "country": "Brazil",
+        "team": "",
+        "bio": "nombre futbolístico de Ronaldo de Assis Moreira; Brasil, 1980) Futbolista brasileño. Ronaldinho Gaucho Gaucho no es solo un jugador de fútbol, es el ídolo de millones de aficionados que ven en él la encarnación del “jogo bonito” brasileño, del fútbol hecho con arte que ilusiona a grandes y pequeños. La historia de esta estrella del balompié empieza el día 21 de marzo del año 1980, cuando nace en la localidad brasileña de Porto Alegre el pequeño Ronaldo de Assis Moreira, en el seno de una familia de origen humilde en la que se vive con entusiasmo la afición por este deporte. Y es que fue su padre Joao quien le inculcó el amor por el fútbol, igual que a su hermano mayor Roberto.",
+        "titles": 19,
+        "state": false,
+        "trof": {
+            "clubs": [
+                "Champions League x 1",
+                "Campeon de España x 2",
+                "Supercopa de España x 2",
+                "Copa Libertadores x 1",
+                "Recopa Sudamericana x 1"
+            ],
+            "selection": [
+                "Copa America x 1",
+                "Mundial x 1",
+                "Copa confederaciones x 1",
+                "Copa del mundo sub-17 x 1"
+            ]
+        }
+    },{
+        "id": 5,
+        "img": "../../public/imgs/messi.jpg",
+        "img2":"../../public/imgs/messi2.jpg",
+        "name": "Lionel Andrés Messi",
+        "age": 36,
+        "country": "Argentina",
+        "team": "Inter de Miami",
+        "bio": "Lionel Andrés Messi, más conocido como Leo Messi, es un futbolista argentino que también posee la nacionalidad española desde el año 2005. Juega como delantero en el FC Barcelona de la Primera División de España y en la Selección de fútbol de Argentina, de la cual es también capitán.",
+        "titles": 43,
+        "state": true,
+        "trof": {
+            "clubs": [
+                "Champions League x 4",
+                "LaLiga x 10",
+                "Copa del Rey x 7",
+                "Mudial de clubes x 3",
+                "Supercopa de Eropa x 3",
+                "Supercopa de España x 8",
+                "Ligue1 x 2",
+                "Supercopa de Francia x 1"
+            ],
+            "selection": [
+                "Copa America x 1",
+                "Mundial sub-20 x 1",
+                "Medalla Oro juegos Olimpicos Beijing x 1",
+                "Mundial x 1",
+                "Finalissima x 1"
+            ]
+        }
+    },{
+        "id": 6,
+        "img": "../../public/imgs/cristiano.jpeg",
+        "img2": "../../public//imgs/ronaldo2.jpg",
+        "name": "Cristiano Ronaldo",
+        "age": 38,
+        "country": "Portugal",
+        "team": "AL-Nassr",
+        "bio": "Cristiano Ronaldo es un jugador de fútbol portugués que se desempeñó como delantero y goleador de varios clubes europeos y de la selección de Portugal. Jugó en los clubes más importantes de su patria y de Europa y es la máxima estrella y goleador de su selección.",
+        "titles": 35,
+        "state": true,
+        "trof": {
+            "clubs": [
+                "LaLiga x 2",
+                "Champions League x 5",
+                "Serie A x 2",
+                "Copa del Rey x 2",
+                "Premiere League x 3",
+                "Nations League x 1",
+                "FA Cup x 1",
+                "Supercopa de Eropa x 3",
+                "community Sheild x 2",
+                "Supercopa de España x 3",
+                "Supercopa de Italia x 2",
+                "Supercopa de Portugal x 2",
+                "Mundiales de clubes x 4",
+                "Copa de la liga de Inglaterra x 2",
+                "Copa italia x 1"
+            ],
+            "selection": [
+                "Eurocopa x 1",
+                "UEFA Nations league x 1"
+            ]
+        }
+    },{
+        "id": 7,
+        "img": "../../public/imgs/neymar.jpg",
+        "img2": "../../public//imgs/neymar2.jpg",
+        "name": "Neymar Jr",
+        "age": 31,
+        "country": "Brazil",
+        "team": "AL-Hillal",
+        "bio": "Neymar es un futbolista brasileño. Juega como delantero y está considerado como uno de los mejores jugadores de su país y del mundo, de la última década. Destacó como goleador y como armador de juego. Debutó y jugó entre 2014 y 2017 en el Santos de su tierra natal. Tuvo un breve paso por el Barcelona y en 2017 lo compró el Paris Saint-Germain, ostentando el récord del pase más caro de la historia: 222 millones de euros. Es uno de los referentes de la selección de su país. Es el jugador más buscado y mejor pago en publicidades. Fue la cara de Nike y luego se mudó a Puma. Es uno de los futbolistas más seguidos en sus redes sociales, en Twitter cuenta con 12 millones de seguidores. Ha sido comparado con Pelé y muchos lo consideran su sucesor.",
+        "titles": 30,
+        "state": true,
+        "trof": {
+            "clubs": [
+                "Champions League x 1",
+                "Mudial de clubes x 1",
+                "Ligue1 x 5",
+                "LaLiga x 2",
+                "Supercopa de Eropa x 1",
+                "Copa de Francia x 3",
+                "Copa del Rey x 3",
+                "Supercopa de España x 1",
+                "copa de Francia x 2",
+                "Copa Libertadores x 1",
+                "Recopa Sudamericana x 1",
+                "Supercopa de Francia x 4"
+            ],
+            "selection": [
+                "Copa confederaciones x 1",
+                "Campeon Sudamericano sub-20"
+            ]
+        }
+    },{
+        "id": 8,
+        "img": "../../public/imgs/ronaldinho.jpeg",
+        "img2": "../../public//imgs/ronaldinho2.jpg",
+        "name": "Ronaldinho Gaucho",
+        "age": 43,
+        "country": "Brazil",
+        "team": "",
+        "bio": "nombre futbolístico de Ronaldo de Assis Moreira; Brasil, 1980) Futbolista brasileño. Ronaldinho Gaucho Gaucho no es solo un jugador de fútbol, es el ídolo de millones de aficionados que ven en él la encarnación del “jogo bonito” brasileño, del fútbol hecho con arte que ilusiona a grandes y pequeños. La historia de esta estrella del balompié empieza el día 21 de marzo del año 1980, cuando nace en la localidad brasileña de Porto Alegre el pequeño Ronaldo de Assis Moreira, en el seno de una familia de origen humilde en la que se vive con entusiasmo la afición por este deporte. Y es que fue su padre Joao quien le inculcó el amor por el fútbol, igual que a su hermano mayor Roberto.",
+        "titles": 19,
+        "state": false,
+        "trof": {
+            "clubs": [
+                "Champions League x 1",
+                "Campeon de España x 2",
+                "Supercopa de España x 2",
+                "Copa Libertadores x 1",
+                "Recopa Sudamericana x 1"
+            ],
+            "selection": [
+                "Copa America x 1",
+                "Mundial x 1",
+                "Copa confederaciones x 1",
+                "Copa del mundo sub-17 x 1"
+            ]
+        }
+    }
+]
